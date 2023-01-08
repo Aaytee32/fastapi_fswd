@@ -1,2 +1,12 @@
+#SECTION ONE PACKAGES
 fastapi
 uvicorn
+
+
+#SECTION TWO PACKAGES
+#For databases
+sqlalchemy
+psycopg2
+
+#For env variables
+python-dotenv
